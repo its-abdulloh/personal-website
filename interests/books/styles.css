@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(221, 175, 115);
+    font-family: 'EB Garamond', serif;
+    font-size: larger;
+}
+
+header{
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+
+.home{
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    border-radius: 8px;
+}
+
+.home.hover{
+    background-color: rgb(226, 168, 92);
+}
+
+.home:link{
+    text-decoration: none;
+}
+
+
+/* .everything{
+    width: 100%;
+    max-width: 1320px;
+    margin: auto;
+    background-color: burlywood;
+    padding: 20px;
+    border-radius: 10px;
+} */
+

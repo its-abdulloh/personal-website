@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(24, 23, 23);
+    font-family: 'JetBrains Mono', monospace;
+    color: white;
+}
+
+header{
+    width: 100%;
+    max-width: 1320px;
+    height: 70px;
+    margin : 15px auto;
+    padding: 20px;
+}
+
+img{
+    width: 100%;
+    max-width: 700px;
+    border-radius: 12px;
+    margin: 20px 0;
+}
+
+.home{
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(30, 255, 0);
+}
+
+.home:link{
+    text-decoration: none;
+}
+
+.title{
+    color: rgb(0, 255, 242);
+}
+
+.red{
+    color: rgb(248, 59, 59);
+}
+
+.purple{
+    color: rgb(255, 14, 255);
+}
+
+.green{
+    color: rgb(0, 255, 0);
+}
+
+.blue{
+    color: rgb(0, 204, 255);
+}
+
+.yellow{
+    color: rgb(255, 130, 40);
+}

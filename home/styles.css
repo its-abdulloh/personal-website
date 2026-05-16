@@ -1,0 +1,57 @@
+body{
+    background-color: #c1dbbb;
+}
+
+header{
+    width: 100%;
+    max-width: 1320px;
+    height: 70px;
+    margin : 15px auto;
+    padding: 20px;
+}
+
+.home{
+    font-size: x-large;
+    font-weight: 600;
+    color: black;
+}
+
+.home:link{
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+.container{
+    border: 2px solid black;
+    background-color: #b0cfa9;
+}
+
+.coding::marker{
+    content: "\1F4BB";
+}
+
+.books::marker{
+    content: "\1F4DA";
+}
+
+.chess::marker{
+    content: "\2654";
+}
+
+.movies::marker{
+    content: "\1F4FD";
+}
+
+.videogames::marker{
+    content: "\1F3AE";
+}
+
+.surprise-container{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
