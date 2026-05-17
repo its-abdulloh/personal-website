@@ -1,0 +1,33 @@
+body{
+    background-color: #520b5c;
+    font-family: 'VT323';
+    font-size: x-large;
+    color: rgb(255, 255, 255);
+}
+
+.home{
+    font-size: 100px;
+    font-weight: 400;
+    color: #FFD700;
+    text-decoration: none;
+}
+
+
+h1{
+    font-size: 80px;
+    color: #00E5FF;
+}
+
+h2{
+    font-size: 60px;
+    color:#e8ff17;
+}
+
+.main{
+    display: flex;
+    gap: 18px;
+}
+
+.text{
+    width: 50%;
+}
